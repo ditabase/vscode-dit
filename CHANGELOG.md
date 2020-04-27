@@ -1,9 +1,9 @@
-# Change Log
+## 0.0.2
 
-All notable changes to the "vscode-dit" extension will be documented in this file.
+- Dead reckon of essential features, nothing really works however.
+- First attempt at publishing
+- Added MIT license
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 0.0.1
 
-## [Unreleased]
-
-- Initial release
+- Initial commit

@@ -1,0 +1,12 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Dit Theme",
+  "tokenColors": [
+    {
+      "scope": "dit.keyword.extends",
+      "settings": {
+        "foreground": "#c678dd"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dit",
+  "scopeName": "source.dit",
+  "patterns": [
+    {
+      "match": "extends",
+      "name": "dit.keyword.extends"
+    }
+  ]
+}
