@@ -31,10 +31,9 @@
     "type": "git",
     "url": "https://github.com/ditabase/vscode-dit.git"
   },
+  "main": ".out/extension",
   "activationEvents": [
-    "workspaceContains:**/*.dit",
-    "onLanguage:dit",
-    "onCommand:vscode-dit.helloWorld"
+    "onLanguage:dit"
   ],
   "contributes": {
     "languages": [
